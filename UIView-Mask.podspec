@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UIView-Mask"
-  s.version      = "1.1.0"
-  s.summary      = "简单的添加遮盖"
+  s.version      = "1.0.1"
+  s.summary      = "DEMO UIView-Mask."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    这个分类可以简单的添加遮盖
+                    DEMODEMODEMODEMODEMODEMO
                    DESC
 
   s.homepage     = "https://github.com/songhongkang/UIView-Mask.git"
