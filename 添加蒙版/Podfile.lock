@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - Reveal-SDK (4)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - Reveal-SDK (from `https://git.coding.net/kakukeme/Reveal-SDK.git`)
+
+EXTERNAL SOURCES:
+  Reveal-SDK:
+    :git: https://git.coding.net/kakukeme/Reveal-SDK.git
+
+CHECKOUT OPTIONS:
+  Reveal-SDK:
+    :commit: ffdbc623851467394a99effb2dfced2f61c358f1
+    :git: https://git.coding.net/kakukeme/Reveal-SDK.git
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Reveal-SDK: 6504f524a2e7138913251139ba30a03b3da91792
+
+PODFILE CHECKSUM: 40bc81df31c33b979d1ecb933c2143040c00d4a5
+
+COCOAPODS: 1.4.0
