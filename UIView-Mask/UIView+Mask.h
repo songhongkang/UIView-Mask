@@ -11,4 +11,6 @@
 @interface UIView (Mask)
 - (void)showMask;
 - (void)hideMask;
+@property (nonatomic, strong) UIView *maskView;
+
 @end

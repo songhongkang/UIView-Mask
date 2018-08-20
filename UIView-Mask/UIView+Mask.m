@@ -11,9 +11,6 @@
 #import <Masonry/Masonry.h>
 static char bgViewKey;
 
-@interface UIView (Mask)
-@property (nonatomic, strong) UIView *maskView;
-@end
 
 
 @implementation UIView (Mask)
